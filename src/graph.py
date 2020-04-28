@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-df = pd.read_csv("/Users/danilakokin/Desktop/graph_results.csv")
+df = pd.read_csv("/Users/danilakokin/Desktop/result.csv")
 
 fig = plt.figure()
 ax = plt.axes()
